@@ -1,5 +1,5 @@
 # EfficientML-MIT-labs
-This Repo contains all lab work assigments & notes recorded by me during lectures as gist. /n
+This Repo contains all lab work assigments & notes recorded by me during lectures as gist. \n
 Lecture 1:  The Models are outgrowing the hardware supply for AI architechture and such outpaced growth necessiates effcient hardware and efficient models 
 Lecture 2: Revisiting the basics in context of focussing efficency , gist made by me after going throught the lecture 
     I. MLP layers or Feed Forwards : each output neurons are connected to input neurons \ for input (n, ci) and output (n, co)  the weight size: [c0Xci]* bit width total activations: n(c0 + ci)
